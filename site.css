@@ -12,7 +12,7 @@
 body{
 
   background: rgb(238, 244, 247);
-  background-image: url(triangulo1.svg), url(RECURSOS/triangles-bottom.svg);
+  background-image: href=(triangulo1.svg), url(RECURSOS/triangles-bottom.svg);
   background-position: left top, right bottom;
   background-repeat: no-repeat;
   background-size: inherit;
